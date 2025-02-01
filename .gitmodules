@@ -1,0 +1,3 @@
+[submodule "source/lof-material-www"]
+	path = source/lof-material-www
+	url = https://github.com/emlove/lof-material-www
